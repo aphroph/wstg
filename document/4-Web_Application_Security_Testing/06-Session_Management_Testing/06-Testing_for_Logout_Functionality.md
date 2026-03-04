@@ -139,7 +139,7 @@ Implementations should avoid architectures where a single static token represent
 - [Burp Suite - Repeater](https://portswigger.net/burp/documentation/desktop/tools/repeater)
 
 ## References
-- [The Golden Cookie: When Session Boundaries Fail](https://allaboutinfosec.blogspot.com/)
+- [The Golden Cookie: When Session Boundaries Fail](https://blogger.com/)
 
 ### Whitepapers
 
