@@ -51,6 +51,7 @@ This document is released under the [Creative Commons 4.0 License](https://creat
 - Stefano Calzavara
 - Tal Argoni
 - Victoria Drake
+- Alexander Bas
 
 ## Graphic Designers
 
